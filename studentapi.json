@@ -1,0 +1,39 @@
+{
+  "Student":[
+	{
+	  "id": 1,
+	  "Name": "Nimerta",
+	  "Email": "1980129@szabist-isb.pk",
+	  "Qualification": "Software Engineering, Computer Science",
+	  "image" : "https://www.pngitem.com/pimgs/m/137-1370168_professional-clipart-female-avatar-circle-hd-png-download.png"
+	},
+	{
+	  "id": 2,
+	  "Name": "Shaiza Saeed",
+	  "Email": "1880187@szabist-isb.pk",
+	  "Qualification": "Computer Science, System Engineering",
+	  "image" : "https://www.pngitem.com/pimgs/m/137-1370168_professional-clipart-female-avatar-circle-hd-png-download.png"
+	},
+	{
+	  "id": 3,
+	  "Name": "Sabina Akhtar",
+	  "Email": "sabina.buic@bahria.pk",
+	  "Qualification": "Software Engineering",
+	  "image" : "https://www.pngitem.com/pimgs/m/137-1370168_professional-clipart-female-avatar-circle-hd-png-download.png"
+	},
+	{
+	  "id": 4,
+	  "Name": "Momina Moetesum",
+	  "Email": "momina.buic@bahria.pk",
+	  "Qualification": "Computer Science",
+	  "image" : "https://www.pngitem.com/pimgs/m/137-1370168_professional-clipart-female-avatar-circle-hd-png-download.png"
+	},
+	{
+	  "id": 5,
+	  "Name": "Fatima Khalique",
+	  "Email": "fkhalique.buic@bahria.pk",
+	  "Qualification": "Software Engineering, Computer Science",
+	  "image" : "https://www.pngitem.com/pimgs/m/137-1370168_professional-clipart-female-avatar-circle-hd-png-download.png"
+	}
+]
+}
